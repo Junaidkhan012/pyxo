@@ -1158,5 +1158,5 @@ def ingfo(user, pw, status):
 loping= 1
 if __name__ == '__main__':
     os.system('git pull')
-    folder(x)
+    folder()
     menu(y)    
